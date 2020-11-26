@@ -1,10 +1,8 @@
-# CSE327-Project
-
 Team Scorpion
 
 App name: House Rental and Management System
 
-Description: 
+Description: House Rental Management System where users can add their monthly rent on the application, Can keep track on monthly and annual income from rent. 
 
 Type of app: Web application
 
@@ -25,7 +23,7 @@ Operating system: Windows
 
 How to use: Visit http://renttracker.com with your browser.
 
-Written in: html, java, css, php
+Written in: HTML, CSS, Javascript. 
 
 Tools/framework used: Xampp
 
