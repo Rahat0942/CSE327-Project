@@ -24,6 +24,7 @@ Operating system: Windows
 How to use: Visit http://renttracker.com with your browser.
 
 Written in: HTML, CSS, Javascript. 
+Server Side Language: PHP
 
 Tools/framework used: Xampp
 
